@@ -6,9 +6,9 @@ import UserProfile from '../components/Dashboard/UserProfile';
 
 export default function DashboardPage() {
   const [user] = useState({
-    name: 'John Doe',
-    email: 'john@example.com',
-    phone: '+1 234 567 8900',
+    name: 'Deepika',
+    email: 'Deepikaguru2002@gmail.com',
+    phone: '9876543210',
     appointments: 5,
     joinDate: '2024-01-15',
     role: 'Patient',
